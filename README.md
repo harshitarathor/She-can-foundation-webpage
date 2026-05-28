@@ -10,3 +10,30 @@ She Can Foundation is a frontend web project created to spread awareness about w
 
 ## 📸 Website Preview
 ![lightmode1](images/lightmode1.png)
+![lightmode2](images/lightmode2.png)
+
+### 🌙 Dark Mode Preview
+![darkmode1](images/darkmode1.png)
+![darkmode2](images/darkmode2.png)
+
+## 📂 Project Structure
+
+She-Can-Foundation/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└── images/
+    ├── logo.png
+    ├── hero.png
+    ├── image.png
+    ├── screenshot1.png
+    ├── screenshot2.png
+    └── darkmode.png
+    
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
