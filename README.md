@@ -1,5 +1,5 @@
 
-# 🌸 She Can Foundation Website
+# 🌸 She Can Foundation Webpage
 
 A modern and responsive women empowerment NGO website built using HTML, CSS, and JavaScript.
 
