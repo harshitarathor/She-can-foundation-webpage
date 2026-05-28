@@ -9,4 +9,4 @@ She Can Foundation is a frontend web project created to spread awareness about w
 
 
 ## 📸 Website Preview
-![lightmode1](images/lightmode1.png.png)
+![lightmode1](images/lightmode1.png)
